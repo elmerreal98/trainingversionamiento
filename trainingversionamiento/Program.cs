@@ -17,6 +17,11 @@ namespace trainingversionamiento
             // Create a string variable and get user input from the keyboard and store it in the variable
             string number2 = Console.ReadLine();
             int resultado = 0;
+            if(Int32.Parse(number1 )< 10)
+            {
+                Console.WriteLine("Error: numero 1 tiene que ser mayor a 10");
+                return;
+            }
             switch (operacion)
             {
                 case "suma":
