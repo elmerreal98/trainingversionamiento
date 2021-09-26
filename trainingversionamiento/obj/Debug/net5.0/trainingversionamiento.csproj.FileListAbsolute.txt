@@ -1,0 +1,16 @@
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.exe
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.deps.json
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.runtimeconfig.json
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.runtimeconfig.dev.json
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.dll
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\ref\trainingversionamiento.dll
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\bin\Debug\net5.0\trainingversionamiento.pdb
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.csprojAssemblyReference.cache
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.AssemblyInfoInputs.cache
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.AssemblyInfo.cs
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.csproj.CoreCompileInputs.cache
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.dll
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\ref\trainingversionamiento.dll
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.pdb
+C:\Users\ereal\source\repos\trainingversionamiento\trainingversionamiento\obj\Debug\net5.0\trainingversionamiento.genruntimeconfig.cache
