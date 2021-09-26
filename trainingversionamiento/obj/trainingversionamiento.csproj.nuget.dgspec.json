@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ereal\\source\\repos\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj": {}
+    "C:\\Users\\ereal\\Documents\\GitHub\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ereal\\source\\repos\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj": {
+    "C:\\Users\\ereal\\Documents\\GitHub\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ereal\\source\\repos\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj",
+        "projectUniqueName": "C:\\Users\\ereal\\Documents\\GitHub\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj",
         "projectName": "trainingversionamiento",
-        "projectPath": "C:\\Users\\ereal\\source\\repos\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj",
+        "projectPath": "C:\\Users\\ereal\\Documents\\GitHub\\trainingversionamiento\\trainingversionamiento\\trainingversionamiento.csproj",
         "packagesPath": "C:\\Users\\ereal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ereal\\source\\repos\\trainingversionamiento\\trainingversionamiento\\obj\\",
+        "outputPath": "C:\\Users\\ereal\\Documents\\GitHub\\trainingversionamiento\\trainingversionamiento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

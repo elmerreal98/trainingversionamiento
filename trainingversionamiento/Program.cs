@@ -6,6 +6,9 @@ namespace trainingversionamiento
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Operacion:");
+            string operacion = Console.ReadLine();
+
             Console.WriteLine("Numero 1:");
 
             // Create a string variable and get user input from the keyboard and store it in the variable
@@ -13,9 +16,22 @@ namespace trainingversionamiento
             Console.WriteLine("Numero 2:");
             // Create a string variable and get user input from the keyboard and store it in the variable
             string number2 = Console.ReadLine();
+            int resultado = 0;
+            switch (operacion)
+            {
+                case "suma":
+                    resultado = Int32.Parse(number1) + Int32.Parse(number2);
+                    break;
+                case "resta":
+                    resultado = Int32.Parse(number1) - Int32.Parse(number2);
+                    break;
+                default:
+                    Console.WriteLine("Error: Operacion no valida");
+                    break;
+            }
 
-            int resultado = Int32.Parse(number1) + Int32.Parse(number2);
-            Console.WriteLine($"{number1} + {number2} = {resultado.ToString()}");
+           
+            Console.WriteLine($" El resultado de la operacion {operacion} entre {number1} y {number2} es igual a {resultado.ToString()}");
 
         }
     }
