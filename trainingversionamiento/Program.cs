@@ -35,7 +35,7 @@ namespace trainingversionamiento
                     break;
             }
 
-           
+            Console.WriteLine("test");
             Console.WriteLine($" El resultado de la operacion {operacion} entre {number1} y {number2} es igual a {resultado.ToString()}");
 
         }
